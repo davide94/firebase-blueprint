@@ -3,8 +3,8 @@
     "module": "commonjs",
     "noImplicitReturns": true,
     "noUnusedLocals": true,
-    "sourceRoot": "src",
-    "outDir": "lib",
+    "sourceRoot": "src/index.ts",
+    "outDir": "dist",
     "sourceMap": true,
     "strict": true,
     "target": "es2017"
